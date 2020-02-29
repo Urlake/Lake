@@ -1,0 +1,2 @@
+name = read("What is Your Name? ")::console;
+write("Hello #{name}!")::console;

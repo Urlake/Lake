@@ -1,0 +1,8 @@
+a::int, b::int, c::int = 1, 0, 11;
+
+while(c >= 0) {
+    a += b;
+    a, b = b, a;
+    c -= 1;
+    write(b)::console;
+};

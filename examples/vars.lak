@@ -1,0 +1,4 @@
+string::str = "String";
+integer::int = 12;
+float::flt = 12.6;
+boolean::bol = true;
